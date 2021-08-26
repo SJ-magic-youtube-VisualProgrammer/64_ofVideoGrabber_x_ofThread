@@ -1,4 +1,4 @@
-# FFT->Visualize #
+# ofVideoGrabber x ofThread #
 
 ## 環境 ##
 *	Big Sur(11.2.3)
